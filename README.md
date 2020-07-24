@@ -1,5 +1,5 @@
 # Demo:
-Visit here(https://apex-tracker-vue-pup.herokuapp.com/)
+Visit [heroku](https://apex-tracker-vue-pup.herokuapp.com/)
 
 # client
 
